@@ -1,0 +1,28 @@
+.home_page_photo {
+    
+    width: 200px;
+    height: auto;
+    
+}
+
+.photo_at_home {
+    
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+/****        HOME PAGE PAGINATION BUTTON ****/
+
+.pager .active a {
+    
+    background: goldenrod !important;
+    color: black;
+}
+
+.pager .active a:hover{
+
+    background: black !important;
+    color: goldenrod;
+}
